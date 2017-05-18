@@ -11,6 +11,5 @@ public class DictGroup extends Dict{
 
     public DictGroup( List<Dict> dicts) {
         this.dicts = dicts;
-
     }
 }
